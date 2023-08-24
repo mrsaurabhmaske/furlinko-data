@@ -119,7 +119,267 @@
         "discount": 8,
         "category": "Chairs",
         "rating": 4.5
+    },
+        {
+        "id": "13",
+        "title": "Classic Leather Recliner in Brown",
+        "image": "https://example.com/images/classic-recliner.jpg",
+        "brand": "TimelessFurnishings",
+        "price": 15500,
+        "discount": 10,
+        "category": "Recliners",
+        "rating": 4.8
+    },
+    {
+        "id": "14",
+        "title": "Sleek Gaming Chair with Lumbar Support",
+        "image": "https://example.com/images/sleek-gaming-chair.jpg",
+        "brand": "TechGamer",
+        "price": 9400,
+        "discount": 12,
+        "category": "Gaming Chairs",
+        "rating": 4.5
+    },
+    {
+        "id": "15",
+        "title": "Elegant Sofa Cum Bed in Beige",
+        "image": "https://example.com/images/elegant-sofa-cum-bed.jpg",
+        "brand": "ChicLiving",
+        "price": 17500,
+        "discount": 15,
+        "category": "Sofa Cum Beds",
+        "rating": 4.6
+    },
+    {
+        "id": "16",
+        "title": "Modern Sectional Sofa with Ottoman",
+        "image": "https://example.com/images/modern-sectional.jpg",
+        "brand": "ContemporaryLiving",
+        "price": 29000,
+        "discount": 10,
+        "category": "Sectional Sofas",
+        "rating": 4.9
+    },
+    {
+        "id": "17",
+        "title": "Comfy Fabric Armchair in Grey",
+        "image": "https://example.com/images/fabric-armchair.jpg",
+        "brand": "CozyHaven",
+        "price": 7300,
+        "discount": 8,
+        "category": "Chairs",
+        "rating": 4.3
+    },
+    {
+        "id": "18",
+        "title": "Modern Ottoman with Geometric Pattern",
+        "image": "https://example.com/images/geometric-ottoman.jpg",
+        "brand": "ArtisticDesigns",
+        "price": 6200,
+        "discount": 10,
+        "category": "Ottomans",
+        "rating": 4.7
+    },
+    {
+        "id": "19",
+        "title": "Luxe Velvet Sofa in Deep Blue",
+        "image": "https://example.com/images/velvet-sofa.jpg",
+        "brand": "LuxuryLiving",
+        "price": 26500,
+        "discount": 10,
+        "category": "Sofas",
+        "rating": 4.7
+    },
+    {
+        "id": "20",
+        "title": "Compact Sofa Bed in Charcoal Grey",
+        "image": "https://example.com/images/compact-sofa-bed.jpg",
+        "brand": "UrbanHome",
+        "price": 9500,
+        "discount": 12,
+        "category": "Sofa Cum Beds",
+        "rating": 4.4
+    },
+    {
+        "id": "21",
+        "title": "Plush Recliner Chair in Mocha",
+        "image": "https://example.com/images/plush-recliner.jpg",
+        "brand": "RelaxHaven",
+        "price": 14200,
+        "discount": 8,
+        "category": "Recliners",
+        "rating": 4.6
+    },
+    {
+        "id": "22",
+        "title": "Sleek Gaming Chair with High Back",
+        "image": "https://example.com/images/high-back-gaming-chair.jpg",
+        "brand": "GamerPro",
+        "price": 7800,
+        "discount": 15,
+        "category": "Gaming Chairs",
+        "rating": 4.2
+    },
+    {
+        "id": "23",
+        "title": "Cozy Swivel Chair in Light Grey",
+        "image": "https://example.com/images/swivel-chair.jpg",
+        "brand": "CozyLiving",
+        "price": 6200,
+        "discount": 10,
+        "category": "Chairs",
+        "rating": 4.8
+    },
+    {
+        "id": "24",
+        "title": "Contemporary Ottoman with Wooden Legs",
+        "image": "https://example.com/images/contemporary-ottoman.jpg",
+        "brand": "ModernChic",
+        "price": 5300,
+        "discount": 8,
+        "category": "Ottomans",
+        "rating": 4.5
+    },
+    {
+        "id": "25",
+        "title": "Modern Leather Sofa in Cognac",
+        "image": "https://example.com/images/leather-sofa.jpg",
+        "brand": "ClassicFurniture",
+        "price": 22500,
+        "discount": 10,
+        "category": "Sofas",
+        "rating": 4.8
+    },
+    {
+        "id": "26",
+        "title": "Elegant Sectional Sofa with Chaise",
+        "image": "https://example.com/images/elegant-sectional.jpg",
+        "brand": "ElegantHome",
+        "price": 28000,
+        "discount": 12,
+        "category": "Sectional Sofas",
+        "rating": 4.7
+    },
+    {
+        "id": "27",
+        "title": "Convertible Sofa Cum Bed in Light Grey",
+        "image": "https://example.com/images/convertible-sofa-cum-bed.jpg",
+        "brand": "UrbanDesign",
+        "price": 15800,
+        "discount": 15,
+        "category": "Sofa Cum Beds",
+        "rating": 4.5
+    },
+    {
+        "id": "28",
+        "title": "Plush Rocker Recliner in Charcoal",
+        "image": "https://example.com/images/rocker-recliner.jpg",
+        "brand": "ComfortZone",
+        "price": 14900,
+        "discount": 8,
+        "category": "Recliners",
+        "rating": 4.3
+    },
+    {
+        "id": "29",
+        "title": "Gaming Chair with Footrest and Speakers",
+        "image": "https://example.com/images/gaming-chair-speakers.jpg",
+        "brand": "GamerTech",
+        "price": 11200,
+        "discount": 10,
+        "category": "Gaming Chairs",
+        "rating": 4.9
+    },
+    {
+        "id": "30",
+        "title": "Contemporary Accent Chair in Red",
+        "image": "https://example.com/images/contemporary-accent-chair.jpg",
+        "brand": "ModernVibe",
+        "price": 6900,
+        "discount": 8,
+        "category": "Chairs",
+        "rating": 4.6
+    },
+    {
+        "id": "31",
+        "title": "Luxurious Velvet Sectional Sofa",
+        "image": "https://example.com/images/velvet-sectional.jpg",
+        "brand": "LuxuryLiving",
+        "price": 31500,
+        "discount": 10,
+        "category": "Sectional Sofas",
+        "rating": 4.9
+    },
+    {
+        "id": "32",
+        "title": "Compact Futon with Storage in Grey",
+        "image": "https://example.com/images/compact-futon.jpg",
+        "brand": "UrbanDesign",
+        "price": 11000,
+        "discount": 12,
+        "category": "Futons",
+        "rating": 4.7
+    },
+    {
+        "id": "33",
+        "title": "Cozy Rocking Recliner in Tan",
+        "image": "https://example.com/images/rocking-recliner.jpg",
+        "brand": "RelaxHaven",
+        "price": 13500,
+        "discount": 8,
+        "category": "Recliners",
+        "rating": 4.5
+    },
+    {
+        "id": "34",
+        "title": "Ergonomic High-Back Gaming Chair",
+        "image": "https://example.com/images/high-back-gaming-chair-2.jpg",
+        "brand": "GamerPro",
+        "price": 7200,
+        "discount": 15,
+        "category": "Gaming Chairs",
+        "rating": 4.4
+    },
+    {
+        "id": "35",
+        "title": "Modern Swivel Chair in Dark Green",
+        "image": "https://example.com/images/modern-swivel-chair.jpg",
+        "brand": "TrendyDesigns",
+        "price": 6400,
+        "discount": 10,
+        "category": "Chairs",
+        "rating": 4.8
+    },
+    {
+        "id": "36",
+        "title": "Stylish Ottoman with Gold Accents",
+        "image": "https://example.com/images/stylish-ottoman.jpg",
+        "brand": "ArtisticFurnishings",
+        "price": 5900,
+        "discount": 8,
+        "category": "Ottomans",
+        "rating": 4.6
     }
+],
+"users":[
+    {
+        "name":"Saurabh Maske",
+        "email":"saurabh@furlinko.com",
+        "password":"saurabh"
+    },
+    {
+        "name":"Hardik Gajera",
+        "email":"hardik@furlinko.com",
+        "password":"hardik"
+    },
+    {
+        "name":"Blessmi K",
+        "email":"blessmi@furlinko.com",
+        "password":"blessmi"
+    }
+],
+"sales":[
+    
 ]
 
 }
