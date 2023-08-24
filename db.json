@@ -1,6 +1,6 @@
 {
     "products": [
-    {
+        {
         "id": "1",
         "title": "Penza Fabric 2 Seater Sofa in Sandy Brown Colour",
         "image": "https://example.com/images/penza-sofa.jpg",
@@ -8,7 +8,9 @@
         "price": 15000,
         "discount": 10,
         "category": "Sofas",
-        "rating": 4.5
+        "rating": 4.5,
+        "material": "Fabric",
+        "color": "Brown"
     },
     {
         "id": "2",
@@ -18,7 +20,9 @@
         "price": 12000,
         "discount": 8,
         "category": "Sofas",
-        "rating": 4.3
+        "rating": 4.3,
+        "material": "Fabric",
+        "color": "Rust"
     },
     {
         "id": "3",
@@ -28,7 +32,9 @@
         "price": 22000,
         "discount": 20,
         "category": "Sectional Sofas",
-        "rating": 4.9
+        "rating": 4.9,
+        "material": "Fabric",
+        "color": "Grey"
     },
     {
         "id": "4",
@@ -38,7 +44,9 @@
         "price": 18000,
         "discount": 15,
         "category": "Sofa Cum Beds",
-        "rating": 4.7
+        "rating": 4.7,
+        "material": "Fabric",
+        "color": "Grey"
     },
     {
         "id": "5",
@@ -48,7 +56,9 @@
         "price": 8500,
         "discount": 10,
         "category": "Gaming Chairs",
-        "rating": 4.6
+        "rating": 4.6,
+        "material": "Leatherette",
+        "color": "Black"
     },
     {
         "id": "6",
@@ -58,7 +68,9 @@
         "price": 14500,
         "discount": 5,
         "category": "Recliners",
-        "rating": 4.8
+        "rating": 4.8,
+        "material": "Leather",
+        "color": "Brown"
     },
     {
         "id": "7",
@@ -68,7 +80,9 @@
         "price": 9800,
         "discount": 10,
         "category": "Chaise Loungers",
-        "rating": 4.4
+        "rating": 4.4,
+        "material": "Fabric",
+        "color": "Beige"
     },
     {
         "id": "8",
@@ -78,7 +92,9 @@
         "price": 13400,
         "discount": 12,
         "category": "Futons",
-        "rating": 4.6
+        "rating": 4.6,
+        "material": "Engineered Wood",
+        "color": "Blue"
     },
     {
         "id": "9",
@@ -88,7 +104,9 @@
         "price": 7200,
         "discount": 8,
         "category": "Ottomans",
-        "rating": 4.2
+        "rating": 4.2,
+        "material": "Solid Wood",
+        "color": "Brown"
     },
     {
         "id": "10",
@@ -98,7 +116,9 @@
         "price": 6500,
         "discount": 15,
         "category": "Chairs",
-        "rating": 4.7
+        "rating": 4.7,
+        "material": "Fabric",
+        "color": "Teal"
     },
     {
         "id": "11",
@@ -108,7 +128,9 @@
         "price": 8800,
         "discount": 10,
         "category": "Sofa Chairs",
-        "rating": 4.3
+        "rating": 4.3,
+        "material": "Fabric",
+        "color": "pink"
     },
     {
         "id": "12",
@@ -118,9 +140,11 @@
         "price": 5800,
         "discount": 8,
         "category": "Chairs",
-        "rating": 4.5
+        "rating": 4.5,
+        "material": "Fabric",
+        "color": "Black"
     },
-        {
+    {
         "id": "13",
         "title": "Classic Leather Recliner in Brown",
         "image": "https://example.com/images/classic-recliner.jpg",
@@ -128,7 +152,9 @@
         "price": 15500,
         "discount": 10,
         "category": "Recliners",
-        "rating": 4.8
+        "rating": 4.8,
+        "material": "Leather",
+        "color": "Brown"
     },
     {
         "id": "14",
@@ -138,7 +164,9 @@
         "price": 9400,
         "discount": 12,
         "category": "Gaming Chairs",
-        "rating": 4.5
+        "rating": 4.5,
+        "material": "Leatherette",
+        "color": "Black"
     },
     {
         "id": "15",
@@ -148,7 +176,9 @@
         "price": 17500,
         "discount": 15,
         "category": "Sofa Cum Beds",
-        "rating": 4.6
+        "rating": 4.6,
+        "material": "Fabric",
+        "color": "Beige"
     },
     {
         "id": "16",
@@ -158,7 +188,9 @@
         "price": 29000,
         "discount": 10,
         "category": "Sectional Sofas",
-        "rating": 4.9
+        "rating": 4.9,
+        "material": "Fabric",
+        "color": "Grey"
     },
     {
         "id": "17",
@@ -168,7 +200,9 @@
         "price": 7300,
         "discount": 8,
         "category": "Chairs",
-        "rating": 4.3
+        "rating": 4.3,
+        "material": "Fabric",
+        "color": "Grey"
     },
     {
         "id": "18",
@@ -178,7 +212,9 @@
         "price": 6200,
         "discount": 10,
         "category": "Ottomans",
-        "rating": 4.7
+        "rating": 4.7,
+        "material": "Fabric",
+        "color": "white"
     },
     {
         "id": "19",
@@ -188,7 +224,9 @@
         "price": 26500,
         "discount": 10,
         "category": "Sofas",
-        "rating": 4.7
+        "rating": 4.7,
+        "material": "Velvet",
+        "color": "Blue"
     },
     {
         "id": "20",
@@ -198,7 +236,9 @@
         "price": 9500,
         "discount": 12,
         "category": "Sofa Cum Beds",
-        "rating": 4.4
+        "rating": 4.4,
+        "material": "Fabric",
+        "color": "Grey"
     },
     {
         "id": "21",
@@ -208,7 +248,9 @@
         "price": 14200,
         "discount": 8,
         "category": "Recliners",
-        "rating": 4.6
+        "rating": 4.6,
+        "material": "Leather",
+        "color": "Mocha"
     },
     {
         "id": "22",
@@ -218,7 +260,9 @@
         "price": 7800,
         "discount": 15,
         "category": "Gaming Chairs",
-        "rating": 4.2
+        "rating": 4.2,
+        "material": "Leather",
+        "color": "Black"
     },
     {
         "id": "23",
@@ -228,7 +272,9 @@
         "price": 6200,
         "discount": 10,
         "category": "Chairs",
-        "rating": 4.8
+        "rating": 4.8,
+        "material": "Fabric",
+        "color": "Grey"
     },
     {
         "id": "24",
@@ -238,7 +284,9 @@
         "price": 5300,
         "discount": 8,
         "category": "Ottomans",
-        "rating": 4.5
+        "rating": 4.5,
+        "material": "Solid Wood",
+        "color": "Brown"
     },
     {
         "id": "25",
@@ -248,7 +296,9 @@
         "price": 22500,
         "discount": 10,
         "category": "Sofas",
-        "rating": 4.8
+        "rating": 4.8,
+        "material": "Leather",
+        "color": "Orange"
     },
     {
         "id": "26",
@@ -258,7 +308,9 @@
         "price": 28000,
         "discount": 12,
         "category": "Sectional Sofas",
-        "rating": 4.7
+        "rating": 4.7,
+        "material": "Velvet",
+        "color": "Green"
     },
     {
         "id": "27",
@@ -268,7 +320,9 @@
         "price": 15800,
         "discount": 15,
         "category": "Sofa Cum Beds",
-        "rating": 4.5
+        "rating": 4.5,
+        "material": "Fabric",
+        "color": "Grey"
     },
     {
         "id": "28",
@@ -278,7 +332,9 @@
         "price": 14900,
         "discount": 8,
         "category": "Recliners",
-        "rating": 4.3
+        "rating": 4.3,
+        "material": "Leather",
+        "color": "Charcoal"
     },
     {
         "id": "29",
@@ -288,7 +344,9 @@
         "price": 11200,
         "discount": 10,
         "category": "Gaming Chairs",
-        "rating": 4.9
+        "rating": 4.9,
+        "material": "Leather",
+        "color": "Black"
     },
     {
         "id": "30",
@@ -298,7 +356,9 @@
         "price": 6900,
         "discount": 8,
         "category": "Chairs",
-        "rating": 4.6
+        "rating": 4.6,
+        "material": "Fabric",
+        "color": "Red"
     },
     {
         "id": "31",
@@ -308,7 +368,9 @@
         "price": 31500,
         "discount": 10,
         "category": "Sectional Sofas",
-        "rating": 4.9
+        "rating": 4.9,
+        "material": "Velvet",
+        "color": "Purple"
     },
     {
         "id": "32",
@@ -318,7 +380,9 @@
         "price": 11000,
         "discount": 12,
         "category": "Futons",
-        "rating": 4.7
+        "rating": 4.7,
+        "material": "Engineered Wood",
+        "color": "Grey"
     },
     {
         "id": "33",
@@ -328,7 +392,9 @@
         "price": 13500,
         "discount": 8,
         "category": "Recliners",
-        "rating": 4.5
+        "rating": 4.5,
+        "material": "Leather",
+        "color": "Tan"
     },
     {
         "id": "34",
@@ -338,7 +404,9 @@
         "price": 7200,
         "discount": 15,
         "category": "Gaming Chairs",
-        "rating": 4.4
+        "rating": 4.4,
+        "material": "Leather",
+        "color": "Black"
     },
     {
         "id": "35",
@@ -348,7 +416,9 @@
         "price": 6400,
         "discount": 10,
         "category": "Chairs",
-        "rating": 4.8
+        "rating": 4.8,
+        "material": "Fabric",
+        "color": "Green"
     },
     {
         "id": "36",
@@ -358,8 +428,419 @@
         "price": 5900,
         "discount": 8,
         "category": "Ottomans",
-        "rating": 4.6
+        "rating": 4.6,
+        "material": "Solid Wood",
+        "color": "Gold"
+    },
+    {
+        "id": "37",
+        "title": "Elegant Leather Sofa in Mahogany",
+        "image": "https://example.com/images/elegant-leather-sofa.jpg",
+        "brand": "ClassicFurniture",
+        "price": 24500,
+        "discount": 10,
+        "category": "Sofas",
+        "rating": 4.7,
+        "material": "Leather",
+        "color": "Mahogany"
+    },
+    {
+        "id": "38",
+        "title": "Rodrigo Fabric 1 Seater Sofa In Rust Colour",
+        "image": "https://example.com/images/rodrigo-sofa.jpg",
+        "brand": "UrbanChic",
+        "price": 12000,
+        "discount": 8,
+        "category": "Sofas",
+        "rating": 4.3,
+        "material": "Fabric",
+        "color": "Rust"
+    },
+    {
+        "id": "39",
+        "title": "Modern L-Shaped Sectional Sofa in Grey",
+        "image": "https://example.com/images/l-shaped-sofa.jpg",
+        "brand": "ModernLiving",
+        "price": 22000,
+        "discount": 20,
+        "category": "Sectional Sofas",
+        "rating": 4.9,
+        "material": "Fabric",
+        "color": "Grey"
+    },
+    {
+        "id": "40",
+        "title": "Cozy Sofa Cum Bed in Charcoal Grey",
+        "image": "https://example.com/images/sofa-cum-bed.jpg",
+        "brand": "RelaxHome",
+        "price": 18000,
+        "discount": 15,
+        "category": "Sofa Cum Beds",
+        "rating": 4.7,
+        "material": "Fabric",
+        "color": "Grey"
+    },
+    {
+        "id": "41",
+        "title": "Chic Velvet Loveseat in Teal",
+        "image": "https://example.com/images/velvet-loveseat.jpg",
+        "brand": "ChicLiving",
+        "price": 18800,
+        "discount": 12,
+        "category": "Sofas",
+        "rating": 4.5,
+        "material": "Velvet",
+        "color": "Teal"
+    },
+    {
+        "id": "42",
+        "title": "Modern Modular Sectional Sofa",
+        "image": "https://example.com/images/modular-sectional.jpg",
+        "brand": "ModernStyle",
+        "price": 31200,
+        "discount": 15,
+        "category": "Sectional Sofas",
+        "rating": 4.8,
+        "material": "Fabric",
+        "color": "Grey"
+    },
+    {
+        "id": "43",
+        "title": "Convertible Sofa Cum Bed in Navy Blue",
+        "image": "https://example.com/images/navy-blue-sofa-cum-bed.jpg",
+        "brand": "UrbanDesign",
+        "price": 16500,
+        "discount": 10,
+        "category": "Sofa Cum Beds",
+        "rating": 4.7,
+        "material": "Fabric",
+        "color": "Blue"
+    },
+    {
+        "id": "44",
+        "title": "Elegant Leather Recliner in Espresso",
+        "image": "https://example.com/images/leather-recliner.jpg",
+        "brand": "ElegantFurnishings",
+        "price": 18900,
+        "discount": 8,
+        "category": "Recliners",
+        "rating": 4.6,
+        "material": "Leather",
+        "color": "Orange"
+    },
+    {
+        "id": "45",
+        "title": "Gaming Chair with Massage and Heat",
+        "image": "https://example.com/images/massage-gaming-chair.jpg",
+        "brand": "TechGamer",
+        "price": 12800,
+        "discount": 10,
+        "category": "Gaming Chairs",
+        "rating": 4.4,
+        "material": "Leatherette",
+        "color": "Black"
+    },
+    {
+        "id": "46",
+        "title": "Modern Armchair in Light Grey",
+        "image": "https://example.com/images/modern-armchair.jpg",
+        "brand": "TrendyDesigns",
+        "price": 6900,
+        "discount": 8,
+        "category": "Chairs",
+        "rating": 4.3,
+        "material": "Fabric",
+        "color": "Light Grey"
+    },
+    {
+        "id": "47",
+        "title": "Stylish Ottoman with Storage in Teal",
+        "image": "https://example.com/images/teal-storage-ottoman.jpg",
+        "brand": "ArtisticFurnishings",
+        "price": 6400,
+        "discount": 10,
+        "category": "Ottomans",
+        "rating": 4.7,
+        "material": "Fabric",
+        "color": "Teal"
+    },
+    {
+        "id": "48",
+        "title": "Luxury Velvet Sofa with Diamond Tufting",
+        "image": "https://example.com/images/diamond-tufted-sofa.jpg",
+        "brand": "LuxuryLiving",
+        "price": 27800,
+        "discount": 10,
+        "category": "Sofas",
+        "rating": 4.9,
+        "material": "Velvet",
+        "color": "Luxury"
+    },
+    {
+        "id": "49",
+        "title": "Sleek Futon Sofa Bed in Black",
+        "image": "https://example.com/images/sleek-futon.jpg",
+        "brand": "UrbanHome",
+        "price": 9600,
+        "discount": 12,
+        "category": "Futons",
+        "rating": 4.5,
+        "material": "Engineered Wood",
+        "color": "Black"
+    },
+    {
+        "id": "50",
+        "title": "Plush Reclining Loveseat in Beige",
+        "image": "https://example.com/images/reclining-loveseat.jpg",
+        "brand": "ComfortZone",
+        "price": 21000,
+        "discount": 15,
+        "category": "Recliners",
+        "rating": 4.7,
+        "material": "Fabric",
+        "color": "Beige"
+    },
+    {
+        "id": "51",
+        "title": "Chic Velvet Sofa in Deep Blue",
+        "image": "https://example.com/images/deep-blue-velvet-sofa.jpg",
+        "brand": "ChicLiving",
+        "price": 21900,
+        "discount": 10,
+        "category": "Sofas",
+        "rating": 4.6,
+        "material": "Velvet",
+        "color": "Deep Blue"
+    },
+    {
+        "id": "52",
+        "title": "Modern Leather Sectional Sofa",
+        "image": "https://example.com/images/leather-sectional.jpg",
+        "brand": "ModernStyle",
+        "price": 32800,
+        "discount": 12,
+        "category": "Sectional Sofas",
+        "rating": 4.9,
+        "material": "Leather",
+        "color": "Modern"
+    },
+    {
+        "id": "53",
+        "title": "Convertible Sofa Cum Bed in Charcoal Grey",
+        "image": "https://example.com/images/charcoal-grey-sofa-cum-bed.jpg",
+        "brand": "UrbanDesign",
+        "price": 17500,
+        "discount": 15,
+        "category": "Sofa Cum Beds",
+        "rating": 4.7,
+        "material": "Fabric",
+        "color": "Grey"
+    },
+    {
+        "id": "54",
+        "title": "Classic Leather Recliner in Tan",
+        "image": "https://example.com/images/classic-leather-recliner.jpg",
+        "brand": "ClassicFurniture",
+        "price": 19800,
+        "discount": 10,
+        "category": "Recliners",
+        "rating": 4.8,
+        "material": "Leather",
+        "color": "Tan"
+    },
+    {
+        "id": "55",
+        "title": "High-Back Gaming Chair with RGB Lighting",
+        "image": "https://example.com/images/rgb-gaming-chair.jpg",
+        "brand": "GamerTech",
+        "price": 11800,
+        "discount": 8,
+        "category": "Gaming Chairs",
+        "rating": 4.5,
+        "material": "Leatherette",
+        "color": "Black"
+    },
+    {
+        "id": "56",
+        "title": "Modern Swivel Armchair in Grey",
+        "image": "https://example.com/images/modern-swivel-armchair.jpg",
+        "brand": "TrendyDesigns",
+        "price": 7200,
+        "discount": 10,
+        "category": "Chairs",
+        "rating": 4.4,
+        "material": "Fabric",
+        "color": "Grey"
+    },
+    {
+        "id": "57",
+        "title": "Elegant Ottoman with Tufted Top",
+        "image": "https://example.com/images/tufted-ottoman.jpg",
+        "brand": "ElegantFurnishings",
+        "price": 6200,
+        "discount": 8,
+        "category": "Ottomans",
+        "rating": 4.7,
+        "material": "Fabric",
+        "color": "Blue"
+    },
+    {
+        "id": "58",
+        "title": "Luxe Velvet Loveseat in Mocha",
+        "image": "https://example.com/images/mocha-velvet-loveseat.jpg",
+        "brand": "LuxuryLiving",
+        "price": 20500,
+        "discount": 10,
+        "category": "Sofas",
+        "rating": 4.6,
+        "material": "Velvet",
+        "color": "Brown"
+    },
+    {
+        "id": "59",
+        "title": "Space-Saving Futon Sofa Bed in White",
+        "image": "https://example.com/images/white-futon.jpg",
+        "brand": "UrbanHome",
+        "price": 9500,
+        "discount": 12,
+        "category": "Futons",
+        "rating": 4.5,
+        "material": "Engineered Wood",
+        "color": "White"
+    },
+    {
+        "id": "60",
+        "title": "Plush Reclining Armchair in Beige",
+        "image": "https://example.com/images/reclining-armchair.jpg",
+        "brand": "ComfortZone",
+        "price": 16800,
+        "discount": 15,
+        "category": "Recliners",
+        "rating": 4.8,
+        "material": "Fabric",
+        "color": "Beige"
+    },
+    {
+        "id": "61",
+        "title": "Modern Velvet Sofa in Royal Blue",
+        "image": "https://example.com/images/royal-blue-velvet-sofa.jpg",
+        "brand": "ModernStyle",
+        "price": 22900,
+        "discount": 12,
+        "category": "Sofas",
+        "rating": 4.7,
+        "material": "Velvet",
+        "color": "Blue"
+    },
+    {
+        "id": "62",
+        "title": "Contemporary Leather Sectional Sofa",
+        "image": "https://example.com/images/contemporary-leather-sectional.jpg",
+        "brand": "ContemporaryLiving",
+        "price": 35500,
+        "discount": 15,
+        "category": "Sectional Sofas",
+        "rating": 4.9,
+        "material": "Leather",
+        "color": "Orange"
+    },
+    {
+        "id": "63",
+        "title": "Convertible Sofa Cum Bed in Light Blue",
+        "image": "https://example.com/images/light-blue-sofa-cum-bed.jpg",
+        "brand": "UrbanDesign",
+        "price": 18900,
+        "discount": 10,
+        "category": "Sofa Cum Beds",
+        "rating": 4.6,
+        "material": "Fabric",
+        "color": "Light Blue"
+    },
+    {
+        "id": "64",
+        "title": "Modern Fabric Recliner in Grey",
+        "image": "https://example.com/images/fabric-recliner.jpg",
+        "brand": "ModernLiving",
+        "price": 21500,
+        "discount": 8,
+        "category": "Recliners",
+        "rating": 4.5,
+        "material": "Fabric",
+        "color": "Grey"
+    },
+    {
+        "id": "65",
+        "title": "Ergonomic Gaming Chair with Footrest",
+        "image": "https://example.com/images/gaming-chair-footrest.jpg",
+        "brand": "GamerTech",
+        "price": 13800,
+        "discount": 10,
+        "category": "Gaming Chairs",
+        "rating": 4.3,
+        "material": "Leatherette",
+        "color": "Black"
+    },
+    {
+        "id": "66",
+        "title": "Minimalist Accent Chair in White",
+        "image": "https://example.com/images/minimalist-accent-chair.jpg",
+        "brand": "ModernVibe",
+        "price": 6900,
+        "discount": 8,
+        "category": "Chairs",
+        "rating": 4.7,
+        "material": "Fabric",
+        "color": "White"
+    },
+    {
+        "id": "67",
+        "title": "Contemporary Ottoman with Storage in Grey",
+        "image": "https://example.com/images/grey-storage-ottoman.jpg",
+        "brand": "ArtisticFurnishings",
+        "price": 6700,
+        "discount": 10,
+        "category": "Ottomans",
+        "rating": 4.6,
+        "material": "Fabric",
+        "color": "Grey"
+    },
+    {
+        "id": "68",
+        "title": "Luxurious Velvet Loveseat in Burgundy",
+        "image": "https://example.com/images/burgundy-velvet-loveseat.jpg",
+        "brand": "LuxuryLiving",
+        "price": 23500,
+        "discount": 10,
+        "category": "Sofas",
+        "rating": 4.8,
+        "material": "Velvet",
+        "color": "Burgundy"
+    },
+    {
+        "id": "69",
+        "title": "Sleek Futon Sofa Bed in Espresso",
+        "image": "https://example.com/images/espresso-futon.jpg",
+        "brand": "UrbanHome",
+        "price": 9800,
+        "discount": 12,
+        "category": "Futons",
+        "rating": 4.6,
+        "material": "Engineered Wood",
+        "color": "Orange"
+    },
+    {
+        "id": "70",
+        "title": "Plush Reclining Sofa in Grey",
+        "image": "https://example.com/images/reclining-sofa.jpg",
+        "brand": "ComfortZone",
+        "price": 24500,
+        "discount": 15,
+        "category": "Recliners",
+        "rating": 4.7,
+        "material": "Fabric",
+        "color": "Grey"
     }
+
 ],
 "users":[
     {
@@ -371,15 +852,14 @@
         "name":"Hardik Gajera",
         "email":"hardik@furlinko.com",
         "password":"hardik"
-    },
-    {
-        "name":"Blessmi K",
-        "email":"blessmi@furlinko.com",
-        "password":"blessmi"
     }
 ],
 "sales":[
     
+],
+"admins":[
+    {"username":"hardik","password":"adminhardik"},
+    {"username":"saurabh","password":"adminsaurabh"}
 ]
 
 }
