@@ -1,0 +1,125 @@
+{
+    "products": [
+    {
+        "id": "1",
+        "title": "Penza Fabric 2 Seater Sofa in Sandy Brown Colour",
+        "image": "https://example.com/images/penza-sofa.jpg",
+        "brand": "ComfortLiving",
+        "price": 15000,
+        "discount": 10,
+        "category": "Sofas",
+        "rating": 4.5
+    },
+    {
+        "id": "2",
+        "title": "Rodrigo Fabric 1 Seater Sofa In Rust Colour",
+        "image": "https://example.com/images/rodrigo-sofa.jpg",
+        "brand": "UrbanChic",
+        "price": 12000,
+        "discount": 8,
+        "category": "Sofas",
+        "rating": 4.3
+    },
+    {
+        "id": "3",
+        "title": "Modern L-Shaped Sectional Sofa in Grey",
+        "image": "https://example.com/images/l-shaped-sofa.jpg",
+        "brand": "ModernLiving",
+        "price": 22000,
+        "discount": 20,
+        "category": "Sectional Sofas",
+        "rating": 4.9
+    },
+    {
+        "id": "4",
+        "title": "Cozy Sofa Cum Bed in Charcoal Grey",
+        "image": "https://example.com/images/sofa-cum-bed.jpg",
+        "brand": "RelaxHome",
+        "price": 18000,
+        "discount": 15,
+        "category": "Sofa Cum Beds",
+        "rating": 4.7
+    },
+    {
+        "id": "5",
+        "title": "Ergonomic Gaming Chair with RGB Lighting",
+        "image": "https://example.com/images/gaming-chair.jpg",
+        "brand": "GamerGear",
+        "price": 8500,
+        "discount": 10,
+        "category": "Gaming Chairs",
+        "rating": 4.6
+    },
+    {
+        "id": "6",
+        "title": "Contemporary Recliner in Brown Leather",
+        "image": "https://example.com/images/recliner-chair.jpg",
+        "brand": "ReclineComfort",
+        "price": 14500,
+        "discount": 5,
+        "category": "Recliners",
+        "rating": 4.8
+    },
+    {
+        "id": "7",
+        "title": "Plush Chaise Lounger in Beige",
+        "image": "https://example.com/images/chaise-lounger.jpg",
+        "brand": "LoungeComfort",
+        "price": 9800,
+        "discount": 10,
+        "category": "Chaise Loungers",
+        "rating": 4.4
+    },
+    {
+        "id": "8",
+        "title": "Convertible Futon Bed in Navy Blue",
+        "image": "https://example.com/images/futon-bed.jpg",
+        "brand": "UrbanFurniture",
+        "price": 13400,
+        "discount": 12,
+        "category": "Futons",
+        "rating": 4.6
+    },
+    {
+        "id": "9",
+        "title": "Elegant Ottoman with Storage in Espresso",
+        "image": "https://example.com/images/storage-ottoman.jpg",
+        "brand": "LuxuryLiving",
+        "price": 7200,
+        "discount": 8,
+        "category": "Ottomans",
+        "rating": 4.2
+    },
+    {
+        "id": "10",
+        "title": "Modern Accent Chair in Teal",
+        "image": "https://example.com/images/accent-chair.jpg",
+        "brand": "TrendyDesigns",
+        "price": 6500,
+        "discount": 15,
+        "category": "Chairs",
+        "rating": 4.7
+    },
+    {
+        "id": "11",
+        "title": "Comfortable Sofa Chair in Floral Pattern",
+        "image": "https://example.com/images/sofa-chair.jpg",
+        "brand": "VintageCharm",
+        "price": 8800,
+        "discount": 10,
+        "category": "Sofa Chairs",
+        "rating": 4.3
+    },
+    {
+        "id": "12",
+        "title": "Ergonomic Office Chair in Black Mesh",
+        "image": "https://example.com/images/office-chair.jpg",
+        "brand": "WorkEase",
+        "price": 5800,
+        "discount": 8,
+        "category": "Chairs",
+        "rating": 4.5
+    }
+]
+
+}
