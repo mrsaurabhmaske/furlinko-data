@@ -610,7 +610,7 @@
         "rating": 4.6,
         "material": "Velvet",
         "image": "https://ii2.pepperfry.com/media/catalog/product/i/n/494x544/indus-velvet-3-seater-sofa-in-cement-beige-colour-indus-velvet-3-seater-sofa-in-cement-beige-colour-dr5zku.jpg",
-        "color": "Deep Blue"
+        "color": "Blue"
     },
     {
         "id": "52",
@@ -638,15 +638,15 @@
     },
     {
         "id": "54",
-        "title": "Classic Leather Recliner in Tan",
+        "title": "Classic Leather Recliner in Yellow",
         "brand": "ClassicFurniture",
         "price": 19800,
         "discount": 10,
         "category": "Recliners",
         "rating": 4.8,
         "material": "Leather",
-        "image": "",
-        "color": "Tan"
+        "image": "https://ii1.pepperfry.com/media/catalog/product/o/r/494x544/orany-1-seater-electric-living-room-recliner-chair-in-yellow-leatherette---faux-leather--orany-1-sea-bfjxv9.jpg",
+        "color": "Yellow"
     },
     {
         "id": "55",
@@ -669,7 +669,7 @@
         "category": "Chairs",
         "rating": 4.4,
         "material": "Fabric",
-        "image": "",
+        "image": "https://ii2.pepperfry.com/media/catalog/product/e/a/494x544/eames-replica-velvet-upholstered-dining-chair-in-orange-colour-eames-replica-velvet-upholstered-dini-8tcrt4.jpg",
         "color": "Blue"
     },
     {
@@ -753,7 +753,7 @@
         "category": "Sofa Cum Beds",
         "rating": 4.6,
         "material": "Fabric",
-        "image": "",
+        "image": "https://ii2.pepperfry.com/media/catalog/product/f/l/494x544/florida-large-fabric-convertible-convertible-sofa-cum-bed-in-sky-blue-colour-florida-large-fabric-co-qlxmta.jpg",
         "color": "Blue"
     },
     {
@@ -770,15 +770,15 @@
     },
     {
         "id": "65",
-        "title": "Ergonomic Gaming Chair with Footrest",
+        "title": "Ergonomic Gaming Chair",
         "brand": "GamerPro",
         "price": 13800,
         "discount": 10,
         "category": "Gaming Chairs",
         "rating": 4.3,
         "material": "Leatherette",
-        "image": "",
-        "color": "Black"
+        "image": "https://ii1.pepperfry.com/media/catalog/product/g/o/494x544/gold-gaming-chair-with-footrest-in-white---black-colour-by-ase-gaming-gold-gaming-chair-with-footres-lwqr0d.jpg",
+        "color": "White"
     },
     {
         "id": "66",
