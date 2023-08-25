@@ -609,7 +609,7 @@
         "category": "Sofas",
         "rating": 4.6,
         "material": "Velvet",
-        "image": "",
+        "image": "https://ii2.pepperfry.com/media/catalog/product/i/n/494x544/indus-velvet-3-seater-sofa-in-cement-beige-colour-indus-velvet-3-seater-sofa-in-cement-beige-colour-dr5zku.jpg",
         "color": "Deep Blue"
     },
     {
@@ -621,8 +621,8 @@
         "category": "Sectional Sofas",
         "rating": 4.9,
         "material": "Leather",
-        "image": "",
-        "color": "Modern"
+        "image": "https://ii3.pepperfry.com/media/catalog/product/d/u/494x544/duke-fabric-rhs-sectional-sofa-3---lounger--in-green-colour-duke-fabric-rhs-sectional-sofa-3---loung-jnwhu2.jpg",
+        "color": "Green"
     },
     {
         "id": "53",
@@ -633,7 +633,7 @@
         "category": "Sofa Cum Beds",
         "rating": 4.7,
         "material": "Fabric",
-        "image": "",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/i/r/494x544/ira-sofa-cum-bed-in-charcoal-grey-colour-ira-sofa-cum-bed-in-charcoal-grey-colour-i2nddc.jpg",
         "color": "Grey"
     },
     {
@@ -657,7 +657,7 @@
         "category": "Gaming Chairs",
         "rating": 4.5,
         "material": "Leatherette",
-        "image": "",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/v/e/494x544/ventor-manual-pushback-recliner-in-tan-colour-by-bantia-furniture-ventor-manual-pushback-recliner-in-icrent.jpg",
         "color": "Black"
     },
     {
@@ -670,7 +670,7 @@
         "rating": 4.4,
         "material": "Fabric",
         "image": "",
-        "color": "Grey"
+        "color": "Blue"
     },
     {
         "id": "57",
@@ -681,7 +681,7 @@
         "category": "Ottomans",
         "rating": 4.7,
         "material": "Fabric",
-        "image": "",
+        "image": "https://ii2.pepperfry.com/media/catalog/product/a/m/494x544/amara-fabric-mid-back-ergonomic-chairs-in-blue-colour-amara-fabric-mid-back-ergonomic-chairs-in-blue-rp3zwu.jpg",
         "color": "Blue"
     },
     {
@@ -693,7 +693,7 @@
         "category": "Sofas",
         "rating": 4.6,
         "material": "Velvet",
-        "image": "",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/b/a/494x544/baiwang-fabric-3-seater-sofa-in-brown-colour-baiwang-fabric-3-seater-sofa-in-brown-colour-tpvnln.jpg",
         "color": "Brown"
     },
     {
@@ -705,7 +705,7 @@
         "category": "Futons",
         "rating": 4.5,
         "material": "Engineered Wood",
-        "image": "",
+        "image": "https://ii3.pepperfry.com/media/catalog/product/f/u/494x544/futon-single-bed-with-box-storage-in-frosty-white-colour-by-wood-you-futon-single-bed-with-box-stora-upglqj.jpg",
         "color": "White"
     },
     {
@@ -717,20 +717,20 @@
         "category": "Recliners",
         "rating": 4.8,
         "material": "Fabric",
-        "image": "",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/s/e/494x544/selino-3-seater-manual-recliner-in-beige-suede-fabric-selino-3-seater-manual-recliner-in-beige-suede-bl4s9o.jpg",
         "color": "Beige"
     },
     {
         "id": "61",
-        "title": "Modern Velvet Sofa in Royal Blue",
+        "title": "Modern Velvet Sofa in Orange",
         "brand": "UrbanDesign",
         "price": 22900,
         "discount": 12,
         "category": "Sofas",
         "rating": 4.7,
         "material": "Velvet",
-        "image": "",
-        "color": "Blue"
+        "image": "https://ii2.pepperfry.com/media/catalog/product/g/r/494x544/grendale-3-seater-sofa-in-orange-colour-by-dreamzz-furniture-grendale-3-seater-sofa-in-orange-colour-emfrij.jpg",
+        "color": "Orange"
     },
     {
         "id": "62",
@@ -741,7 +741,7 @@
         "category": "Sectional Sofas",
         "rating": 4.9,
         "material": "Leather",
-        "image": "",
+        "image": "https://ii3.pepperfry.com/media/catalog/product/p/e/494x544/pero-lhs-6-seater-sectional-sofa-in-orange-colour-by-febonic-pero-lhs-6-seater-sectional-sofa-in-ora-xva2v0.jpg",
         "color": "Orange"
     },
     {
@@ -754,7 +754,7 @@
         "rating": 4.6,
         "material": "Fabric",
         "image": "",
-        "color": "Light Blue"
+        "color": "Blue"
     },
     {
         "id": "64",
@@ -765,7 +765,7 @@
         "category": "Recliners",
         "rating": 4.5,
         "material": "Fabric",
-        "image": "",
+        "image": "https://ii3.pepperfry.com/media/catalog/product/e/a/494x544/easy-deewan-fabric-convertible-sofa-cum-bed-in-blue-colour-easy-deewan-fabric-convertible-sofa-cum-b-lubp5m.jpg",
         "color": "Grey"
     },
     {
@@ -786,35 +786,35 @@
         "brand": "ModernLiving",
         "price": 6900,
         "discount": 8,
-        "category": "Chairs",
+        "category": "Gaming Chairs",
         "rating": 4.7,
-        "material": "Fabric",
-        "image": "",
-        "color": "White"
+        "material": "Leather",
+        "image": "https://ii1.pepperfry.com/media/catalog/product/g/o/494x544/gold-gaming-chair-with-footrest-in-multicolor-colour-by-ase-gaming-gold-gaming-chair-with-footrest-i-u6hnbg.jpg",
+        "color": "Red"
     },
     {
         "id": "67",
-        "title": "Contemporary Ottoman with Storage in Grey",
+        "title": "Contemporary Ottoman with Storage in Yellow",
         "brand": "ElegantFurnishings",
         "price": 6700,
         "discount": 10,
         "category": "Ottomans",
         "rating": 4.6,
         "material": "Fabric",
-        "image": "",
-        "color": "Grey"
+        "image": "https://ii3.pepperfry.com/media/catalog/product/w/o/494x544/wochi-ottoman-in-yellow-colour-by-febonic-wochi-ottoman-in-yellow-colour-by-febonic-cff8gk.jpg",
+        "color": "Yellow"
     },
     {
         "id": "68",
-        "title": "Luxurious Velvet Loveseat in Burgundy",
+        "title": "Luxurious Velvet Loveseat in Red",
         "brand": "LuxuryLiving",
         "price": 23500,
         "discount": 10,
         "category": "Sofas",
         "rating": 4.8,
         "material": "Velvet",
-        "image": "",
-        "color": "Burgundy"
+        "image": "https://ii1.pepperfry.com/media/catalog/product/a/t/494x544/atlanta-velvet-2-seater-sofa-in-red-colour-atlanta-velvet-2-seater-sofa-in-red-colour-wybmp8.jpg",
+        "color": "Red"
     },
     {
         "id": "69",
@@ -825,20 +825,20 @@
         "category": "Futons",
         "rating": 4.6,
         "material": "Engineered Wood",
-        "image": "",
+        "image": "https://ii2.pepperfry.com/media/catalog/product/s/i/494x544/single-futon-sofa-cum-bed-with-mattress-in-orange-colour-by-arra-single-futon-sofa-cum-bed-with-matt-iznw2h.jpg",
         "color": "Orange"
     },
     {
         "id": "70",
-        "title": "Plush Reclining Sofa in Grey",
+        "title": "Plush Reclining Sofa in Red",
         "brand": "ElegantFurnishings",
         "price": 24500,
         "discount": 15,
         "category": "Recliners",
         "rating": 4.7,
         "material": "Fabric",
-        "image": "",
-        "color": "Grey"
+        "image": "https://ii3.pepperfry.com/media/catalog/product/d/y/494x544/dylan-1-seater-manual-recliner-in-red-colour-dylan-1-seater-manual-recliner-in-red-colour-isdrgw.jpg",
+        "color": "Red"
     }
 
 ],
